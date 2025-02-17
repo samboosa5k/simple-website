@@ -1,0 +1,8 @@
+# IDE/editor workspace files/directories
+.idea/
+.idea
+.vscode/
+.vscode
+
+# Dependency directories
+node_modules/
